@@ -1,2 +1,2 @@
-#This is a demo app for github
+# This is a demo app for github
 *Have a look*
